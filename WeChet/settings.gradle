@@ -1,0 +1,4 @@
+rootProject.name='WeChet'
+include ':app'
+include ':zy'
+include ':fxx'
